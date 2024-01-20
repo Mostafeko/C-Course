@@ -1,3 +1,4 @@
-init main(
-
-);
+init main()
+{
+    int x;
+}
